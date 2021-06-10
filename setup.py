@@ -8,5 +8,5 @@ setup(
     url='https://github.com/Blitan/example_python_package_Blitan',
     description='XXX Skeleton python project example.',
     packages=["example_python_package_Blitan"],
-    version="0.0.1"
+    version="0.0.2"
 )
